@@ -1,2 +1,7 @@
-# demo-estudio-juridico-integral
-Demo web para Estudio Juridico Integral — diseñada por eterlab.
+# Estudio Juridico Integral
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
